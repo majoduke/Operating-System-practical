@@ -23,6 +23,6 @@ It cannot be implemented practically since it has many drawbacks:
 Q2. Write a program to demonstrate fork where parent and child run same codes and child 
 process should run first.
 
-Here child process runs and terminates before parent process
+In this example, child process runs and terminates before parent process
 
 ![q2 output](https://user-images.githubusercontent.com/77840734/145349446-fba916a6-cec6-4448-9937-4bb01cae9b50.png)
